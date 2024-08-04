@@ -1,0 +1,71 @@
+{
+    "shortcuts": {},
+    "account_types": [
+        "Valorant",
+        "league of legends",
+        "Hotmail & Outlook"
+    ],
+    "blocked_users": [
+        "1012657155"
+    ],
+    "allowed_channels": [],
+    "allow_all_channels": true,
+    "enabled": true,
+    "user_daily_limits": {
+        "1012657155": [
+            "2024-08-04T03:35:53.294278",
+            5
+        ]
+    },
+    "daily_limit": 5,
+    "unlimited_access": false,
+    "user_data": {
+        "7342561936": {
+            "username": null,
+            "first_use": "2024-08-04T07:29:03.529424",
+            "last_use": "2024-08-04T07:29:24.143049",
+            "use_count": 3,
+            "last_activity": "2024-08-04T07:29:24.143049"
+        },
+        "1012657155": {
+            "username": "derohaze",
+            "first_use": "2024-08-04T06:43:16.233924",
+            "last_use": "2024-08-04T06:43:23.579169",
+            "use_count": 3,
+            "last_activity": "2024-08-04T06:43:23.579169"
+        },
+        "7342561936": {
+            "username": null,
+            "first_use": "2024-08-04T07:46:43.334707",
+            "last_use": "2024-08-04T07:46:49.734852",
+            "use_count": 3,
+            "last_activity": "2024-08-04T07:46:49.734852"
+        }
+    },
+    "maintenance_mode": false,
+    "premium_users": [],
+    "user_requests": {
+        "7342561936": [
+            1722745746.5455115,
+            1722745762.578159
+        ],
+        "1012657155": [
+            1722742997.3631313,
+            1722742998.640032
+        ]
+    },
+    "premium_daily_limit": 50,
+    "unlimited_access_premium_plus": false,
+    "premium_plus_users": [],
+    "admins": [],
+    "user_last_button_press": {
+        "1012657155": 1722743010.713297,
+        "7342561936": 1722745754.6328797
+    },
+    "premium_plus_daily_limit": 100,
+    "user_last_request": {
+        "1012657155": "2024-08-03T18:56:40.954846"
+    },
+    "account_age_limit": 1,
+    "captchas": {}
+}
